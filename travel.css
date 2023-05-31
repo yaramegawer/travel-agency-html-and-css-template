@@ -1,0 +1,111 @@
+.reasons{
+    position: absolute;
+    bottom:20px;
+    text-indent: 4px;
+    font-size: xx-large;
+    font-family: Serif;
+    background-color:IndianRed;
+    width:60%;
+    height:10%;
+    color:#1C2833;
+    padding:20px;
+    text-align: left;
+}
+.reasons:hover{
+ background-color: rgba(205,92,92,0.7);
+}
+
+.img1{
+ border-top: 2px solid IndianRed;
+  float:left;
+  width:47%;
+margin-left:20px;
+margin-top:20px;
+margin-right:20px;
+ margin-bottom: 10px;    
+    
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.smart{
+ margin-top:5px; 
+ margin-left:20px;
+ font-size: xx-large;
+ font-family: Serif;
+ 
+}
+.full{
+ font-size: 20px;
+ margin-left:20px;
+font-family: Serif;
+ top:1360px;
+ position: absolute;
+}
+.super{
+  margin-top:5px; 
+right:580px;
+ font-size: xx-large;
+ font-family: Serif;
+
+ top:1320px;
+ position: absolute;
+
+}
+.up{
+ font-size: 20px;
+right:375px;
+font-family: Serif;
+ top:1360px;
+ position: absolute;
+ 
+}
+.row2::after{
+   content: "";
+  clear: both;
+  display: table;
+}
+.img2{
+  border-top: 7px solid IndianRed;
+  float:left;
+  width:47%;
+margin-left:20px;
+margin-top:50px;
+margin-right:20px;
+ margin-bottom: 10px;  
+ max-height: 20%;
+}
+.car{
+  margin-top:5px; 
+ margin-left:20px;
+ font-size: xx-large;
+ font-family: Serif;
+}
+.where{
+  font-size: 20px;
+ margin-left:20px;
+font-family: Serif;
+ top:1975px;
+ position: absolute;
+}
+.realize{
+  margin-top:5px; 
+right:470px;
+ font-size: xx-large;
+ font-family: Serif;
+ top:1940px;
+ position: absolute; 
+}
+.dont{
+  font-size: 20px;
+ right:522px;
+font-family: Serif;
+ top:1975px;
+ position: absolute
+ 
+}
+.foot{
+ margin: 100px;
+}
